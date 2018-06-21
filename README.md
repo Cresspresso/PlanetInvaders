@@ -1,10 +1,10 @@
-# PlanetInvaders
+# Planet Invaders
 
 Game based off Space Invaders, but with rotational motion.
 
 Made in GameMaker Studio 2.
 
-![PlanetInvaders Screenshot](PlanetInvaders.png)
+![Planet Invaders Screenshot](PlanetInvaders.png)
 
 ## Installation (Windows)
 
